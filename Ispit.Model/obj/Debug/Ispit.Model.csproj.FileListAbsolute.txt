@@ -1,0 +1,6 @@
+C:\work\Ispit.Model\Ispit.Model\bin\Debug\Ispit.Model.dll
+C:\work\Ispit.Model\Ispit.Model\bin\Debug\Ispit.Model.pdb
+C:\work\Ispit.Model\Ispit.Model\obj\Debug\Ispit.Model.csproj.AssemblyReference.cache
+C:\work\Ispit.Model\Ispit.Model\obj\Debug\Ispit.Model.csproj.CoreCompileInputs.cache
+C:\work\Ispit.Model\Ispit.Model\obj\Debug\Ispit.Model.dll
+C:\work\Ispit.Model\Ispit.Model\obj\Debug\Ispit.Model.pdb

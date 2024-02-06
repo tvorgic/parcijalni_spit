@@ -1,0 +1,10 @@
+C:\work\Ispit.Model\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe.config
+C:\work\Ispit.Model\Ispit.Konzola\bin\Debug\Ispit.Konzola.exe
+C:\work\Ispit.Model\Ispit.Konzola\bin\Debug\Ispit.Konzola.pdb
+C:\work\Ispit.Model\Ispit.Konzola\bin\Debug\Ispit.Model.dll
+C:\work\Ispit.Model\Ispit.Konzola\bin\Debug\Ispit.Model.pdb
+C:\work\Ispit.Model\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.AssemblyReference.cache
+C:\work\Ispit.Model\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CoreCompileInputs.cache
+C:\work\Ispit.Model\Ispit.Konzola\obj\Debug\Ispit.Konzola.csproj.CopyComplete
+C:\work\Ispit.Model\Ispit.Konzola\obj\Debug\Ispit.Konzola.exe
+C:\work\Ispit.Model\Ispit.Konzola\obj\Debug\Ispit.Konzola.pdb
