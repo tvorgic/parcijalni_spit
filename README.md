@@ -1,0 +1,2 @@
+# parcijalni_spit
+ 
